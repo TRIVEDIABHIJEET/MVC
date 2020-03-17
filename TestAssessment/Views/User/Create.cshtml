@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "AddUser";
+}
+
+<h2>AddUser</h2>
+
+
+@using (Html.BeginForm("Create", "User", FormMethod.Post))
+{
+    
+    <div class="row">
+        <label>FirstName</label>
+    </div>
+
+    <div class="row">
+        <input type="text" name="FirstName" />
+    </div>
+
+    <div class="row">
+        <label>LastName</label>
+    </div>
+
+    <div class="row">
+        <input type="text" name="LastName" />
+    </div>
+
+    <div class="row">
+        <label>Email</label>
+    </div>
+
+    <div class="row">
+        <input type="text" name="Email" />
+    </div>
+
+
+    <div class="row">
+        <label>MobileNumber</label>
+    </div>
+
+    <div class="row">
+        <input type="text" name="MobileNo" />
+    </div>
+
+    <br /><br />
+    <div class="row">
+        <input type="submit" name="Submit" />
+    </div>
+
+    <br />
+    <div class="row">
+        @Html.ActionLink("Index", "Index")
+    </div>
+
+}

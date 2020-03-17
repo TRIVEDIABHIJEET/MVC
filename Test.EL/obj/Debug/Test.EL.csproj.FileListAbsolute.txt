@@ -1,0 +1,12 @@
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\bin\Debug\Test.EL.dll.config
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\bin\Debug\Test.EL.dll
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\bin\Debug\Test.EL.pdb
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\bin\Debug\EntityFramework.dll
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\bin\Debug\EntityFramework.xml
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\obj\Debug\Test.EL.csprojAssemblyReference.cache
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\obj\Debug\Test.EL.csproj.CoreCompileInputs.cache
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\obj\Debug\Test.EL.csproj.CopyComplete
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\obj\Debug\Test.EL.dll
+C:\Users\abhijeet.trivedi\Documents\Visual Studio 2017\Projects\TestAssessment\Test.EL\obj\Debug\Test.EL.pdb
